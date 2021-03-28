@@ -1,2 +1,2 @@
 # infiniteMonkey
-Basic Implementation of infinite monkey theroem.
+- Basic Implementation of infinite monkey theorem.
